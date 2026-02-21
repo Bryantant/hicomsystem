@@ -8,7 +8,7 @@ You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app (https://github.com/Bryantant/hicomsystem.git) --branch main
+bench get-app https://github.com/Bryantant/hicomsystem.git --branch main
 bench install-app hicomsystem
 ```
 
